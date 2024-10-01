@@ -1,0 +1,29 @@
+#heading{
+    text-align: center;
+    /* padding-left: 20px; */
+    background-color: beige;
+    font-size: 35px;
+}
+.table{
+    width: 40%;
+    align-items: center;
+    margin: 0 auto;
+}
+.FC{
+    font-size: 25px;
+}
+.FC input{
+    height: 25px;
+    font-size: large;
+    align-items: center;
+
+}
+.FC select{
+    height: 25px;
+    font-size: large;
+}
+.FC button{
+    height: 25px;
+    width: 100px;
+    font-size: large;
+}
