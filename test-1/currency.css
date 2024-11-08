@@ -1,0 +1,35 @@
+.container{
+    background-color: burlywood;
+    border: solid 2px black;
+    width: 400px;
+    height: 200px;
+    align-items: center;
+    margin: auto;
+    margin-top: 200px;
+    padding: 50px;
+}
+
+h1{
+    text-align: center;
+}
+
+.all{
+    font-size: 25px;
+}
+.all input{
+    height: 30px;
+    font-size: 15px;
+}
+
+.all select{
+    height: 30px;
+    margin-left: 10px;
+}
+
+button{
+    align-items: center;
+    width: 200px;
+    height: 30px;
+    margin: 50px 0 0 80px;
+
+}
